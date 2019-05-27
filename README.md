@@ -1,4 +1,4 @@
 # miniproject-server
 
 
-Link to client project: https://github.com/oliverloye/miniproject-client
+Link to client project: https://github.com/Srax/miniproject-p4-graphql-client
